@@ -1,5 +1,7 @@
 # Side project for the PyTorch Facebook Challenge Scholarship
 
+ - https://sites.google.com/udacity.com/pytorch-scholarship-facebook/program-overview
+
 ## The project
 
 The project consist in applying Style Transfer from one picture to another.
